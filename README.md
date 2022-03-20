@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
  -->
 - 🔭 I’m currently working on my diplom work [GodOfRowingAnalytics](https://github.com/Bzahov98/GodOfRowingAnalytics)
-- 🌱 I’m currently learning Advanced Android concepts 
+- 🌱 I’m currently learning Advanced Android concepts like Jetpack Compose
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything related to programming and Rowing sport
