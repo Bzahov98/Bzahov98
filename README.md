@@ -21,3 +21,17 @@
 [devto]: https://dev.to/Bzahov98
 <!-- [bmc]: https://www.buymeacoffee.com/aseemwangoo/posts -->
 [linkedin]: https://www.linkedin.com/in/Bzahov98/
+
+&nbsp;
+&nbsp;
+
+## 📊 &nbsp;Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bzahov98&show_icons=true&locale=en&layout=compact" alt="Bzahov98" /></p> 
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bzahov98&" alt="Bzahov98" /></p>
+
+
+&nbsp;
+&nbsp;
