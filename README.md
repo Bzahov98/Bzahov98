@@ -32,6 +32,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bzahov98&" alt="Bzahov98" /></p>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="bzahov98" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bg.linkedin.com/in/bzahov98?trk=profile-badge">Bozhidar Zahov</a></div>
+              
 &nbsp;
 &nbsp;
